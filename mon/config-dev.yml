@@ -1,0 +1,17 @@
+
+env: dev
+prog_module: /java_web/cloudcs2mon/pyspace/
+#d:/tmp/pic/jd
+linkpath_prefix: d:/tmp/pic/
+
+out_path: d:\tmp\vedio\
+out_prefix: \profile\monvedio\
+work_dir: d:\tmp\vedio\
+
+ai_model_dir: C:\Users\user\.cache\whisper
+# tiny base small medium large-v2 large
+ai_model_nm: large
+
+#img_path: "pic/1-27-0E·LANDKIDS童装秋装新品男女童时尚拼色立领半拉链上衣.png"
+#out_img_path: "pic/1-27-0E·LANDKIDS童装秋装新品男女童时尚拼色立领半拉链上衣-check.png"
+#db_out_img_path: /profile/monlink

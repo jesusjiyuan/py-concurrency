@@ -1,0 +1,21 @@
+FROM rockylinux:9
+#作者信息
+MAINTAINER this is ssh image base rockylinux:9 <jiyuan>
+ENV TZ=Asia/Shanghai
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+#镜像的操作指令
+RUN yum -y update \
+  && yum -y install openssh* net-tools lsof telnet passwd \
+  && echo "root:jiyuan."|chpasswd \
+  && useradd user && echo "user:jiyuan."|chpasswd \
+  && sed -i 's/UsePAM yes/UsePAM no/g' /etc/ssh/sshd_config	\
+  && sed -i 's/#PermitRootLogin prohibit-password/PermitRootLogin yes/g' /etc/ssh/sshd_config	\
+  #&& sed -ri '/^session\s+required\s+pam_loginuid.so/s/^/#/' /etc/pam.d/sshd \
+  && yum clean all
+RUN ssh-keygen -t rsa -f /etc/ssh/ssh_host_rsa_key;\
+  ssh-keygen -t ecdsa -f /etc/ssh/ssh_host_ecdsa_key;\
+  ssh-keygen -t ed25519 -f  /etc/ssh/ssh_host_ed25519_key \
+  && mkdir -p /root/.ssh && chown root:root /root && chmod 700 /root/.ssh
+EXPOSE 22
+CMD ["/usr/sbin/sshd" , "-D"]

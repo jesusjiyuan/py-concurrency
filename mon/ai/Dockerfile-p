@@ -1,0 +1,9 @@
+# 使用适合ARM的基础镜像
+FROM arm64/python:3.9
+
+RUN python --version
+
+RUN pip3 install -U openai-whisper
+
+#docker build -t arm64/ubuntu:jiyuan .
+#docker buildx build --platform linux/arm64 -t arm64/ubuntu:jiyuan . --load

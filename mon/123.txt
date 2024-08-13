@@ -1,0 +1,122 @@
+----------------------------887195848545746149776316
+Content-Disposition: form-data; name="file"; filename="new 34.txt"
+Content-Type: text/plain
+
+{
+    data: {
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OpdSa9G/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Pyk6EbC/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PyRBjxe/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PzlYos9/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PzQ3SeY/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PtPmysg/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PvkbnZm/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PwCvRNC/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PxFepsk/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PsC8QZa/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PJDvsB2/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PIPgszC/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PKRzXsk/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PKg6UhO/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Ph6OT73/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PgqOfRu/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PfOM0qQ/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PflfIU8/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PrbipgY/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PisQ9C8/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Pq03TIk/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PhVUGwE/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Pp9gvwk/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PD9hRhC/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PCuHdGo/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PEixaVO/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OrSvvB6/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PDFVJf2/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Ossyz7i/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PG2XWCs/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PF0x05O/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PHj1Doc/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Ot7IoYE/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PGKGaEo/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OtMADHW/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Po8x9M4/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PHZBsTS/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PeRaf7i/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PelWmOc/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PdNjiWk/live.m3u8
+
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OUBY1W0/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OVYQ5Pi/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OVrD1BK/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OY2Rbuo/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OWMeisw/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OZilG00/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OYGB1Hq/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Oqdt7nG/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Orhk3yE/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PazLiuZ/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PbKIcVy/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OJhIq8o/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P8rLP0Y/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P9xBX6o/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OMYdvQk/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P6mkJHy/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OKZANEs/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P7j5HCU/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OPQtBwQ/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OOzz7mV/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/ORPX76U/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OQUkxHO/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OTMSewo/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OSS6svu/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PcK1z1u/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PniSa6k/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PmDIkeY/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OAeP36U/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OB7Telq/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OF1agUg/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Pj3aOgo/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OGqAIY8/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OCmfkkM/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/ODwlrna/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Pm7m3pC/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PlwaBna/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OHOSMvK/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PkEO0V2/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PjFMfXa/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OzbOUk8/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OvCpMRO/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Ow93EPe/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OupLhEQ/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Ov5cIEg/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OxWkpOw/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OyvwFWw/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OwDqJK8/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/Oxi1nlm/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P14LDB7/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P1GwhTG/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/OZO8Kze/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P0obO5q/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PAlzlG8/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PBcEl0c/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/PBY3lIY/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P5ynkOc/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P49NG8w/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P4YTty8/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P2mOwhi/live.m3u8
+start ffplay -i https://spgxpt.shmh.gov.cn/openUrl/P3i9uyk/live.m3u8
+
+    },
+    code: 200,
+    msg: success
+}
+31011204011328000004
+31011205021328000013
+31011204011328000002
+31011203071328000009
+31011203051328000009
+
+
+
+
+----------------------------887195848545746149776316--

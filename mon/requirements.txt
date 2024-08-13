@@ -1,0 +1,22 @@
+numba
+numpy
+torch
+tqdm
+more-itertools
+tiktoken
+
+pymysql
+DBUtils
+sqlacodegen
+flask-sqlacodegen
+
+
+
+playwright
+sqlalchemy
+dmpython  #根据达梦官方安装
+
+
+python-multipart
+uvicorn
+fastapi
